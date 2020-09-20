@@ -12,6 +12,7 @@ I summarize four important logic steps about my vehicle mantenance.
     4. Maintain vehicles and fix new problems.
     
  ***Identity specific requirements***
+ ========================================
  
   The requirement of mantenance is that
   
@@ -23,7 +24,8 @@ I summarize four important logic steps about my vehicle mantenance.
 fortunately they are not changed too much. At last, I finish it.
   
   ***Analysis requirements and get the suitable and reachable solution***
-  
+  ========================================+++++++++++++++++++++++++++++++++++++++
+ 
   At first, I believe this may because my gearbox has issues. But it is not. In fact I have no idea about that. In other words, primarily, I believe this may be normal performance about my vehicle until I feel that I need more strength to push the brake padel. Hopefully,  I use Google and find the problem, that is the brake disc and brake pad has small gaps. The surface of my brake disc is not flat, therefore, when I slow down my speed in highway, the brake liquid push brake pad to brake disc. Then the friction between unflat brake disc and brake pad cause the shaking and has some effects on my steering wheel.
  
   According to the above analysis I get the reachable solution:
