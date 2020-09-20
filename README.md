@@ -14,7 +14,9 @@ I summarize four important logic steps about my vehicle mantenance.
  ***Identity specific requirements***
  
   The requirement of mantenance is to solve the shaking of my steering wheel when braking. 
+  
   When I drive my car in highway and want to slow down my speed, I use 
+  
   This is very important step and all works are focusing on implementting the requirements. In fact the requirements about my mantenances are changed. But 
 fortunately they are not changed too much. At last I finish it.
   
