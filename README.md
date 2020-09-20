@@ -61,7 +61,7 @@ fortunately they are not changed too much. At last, I finish it.
            1 my home front parking lot     // although it is not level， it still works.
 
 
-***Maintain vehicles and fix new problems***
+***Maintain my Toyota Rav4 and fix new problems***
 ===============
 
   In this step, I really want to say that oh my god, I meet so many tough problems.
