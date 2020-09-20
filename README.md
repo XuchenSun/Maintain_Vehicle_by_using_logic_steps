@@ -67,6 +67,9 @@ fortunately they are not changed too much. At last, I finish it.
         2 remove hubcaps of a tire
         3 remove tire
         4 use car lift to lift car up to a necessary level
+        
+   ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/car_lift.jpg)     
+        
         5 use 17MM to remove two bolts in brake clip and then remove the brake pad
         6 use 21MM to remove brake clip
 
