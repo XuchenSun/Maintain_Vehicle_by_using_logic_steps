@@ -47,8 +47,16 @@ fortunately they are not changed too much. At last, I finish it.
             2 car lift   // lift car
             3 new brake pad and disc      // replace all 
             4 Torque wrench               // important
-            5 Ratchet wrench               // necessary
+            5 Ratchet wrench   (17MM and 21MM)            // necessary
+            6 Cross wrench    // remove tires
+            7 others things
             
    Place:
     
            1 my home front parking lot     // although it is not level， it still works.
+
+
+***Maintain vehicles and fix new problems***
+===============
+
+  In this step, I really want to say that oh my god, I meet so many tough problems.
