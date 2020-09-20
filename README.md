@@ -54,6 +54,8 @@ fortunately they are not changed too much. At last, I finish it.
             6 Cross wrench    // remove tires
             7 others things
             
+   ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/tools.jpg)
+            
    Place:
     
            1 my home front parking lot     // although it is not level， it still works.
