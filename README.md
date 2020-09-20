@@ -36,3 +36,19 @@ fortunately they are not changed too much. At last, I finish it.
         2 replace all brake pad
         3 replace brake liquid
         4 test the performance of my vehicle
+        
+        
+  ***Prepare for tools and place for vehicle maintenance***
+   ===============
+   
+   Tools
+        
+            1 OBD2      // get the fault codes of vehicle
+            2 car lift   // lift car
+            3 new brake pad and disc      // replace all 
+            4 Torque wrench               // important
+            5 Ratchet wrench               // necessary
+            
+   Place:
+    
+           1 my home front parking lot     // although it is not level， it still works.
