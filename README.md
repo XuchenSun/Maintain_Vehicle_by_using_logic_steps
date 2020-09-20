@@ -1,6 +1,8 @@
 # Maintain_Vehicle_by_using_logic_steps
 
+![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/me.JPG)
 
+Hello everyone!
 
 I believe some logic philosophy is universal in some degree. In my process of maintaining my SUV(Toyota Rav4), I find some similarities about machanic maintenance and software design and develop.
 
@@ -34,3 +36,54 @@ fortunately they are not changed too much. At last, I finish it.
         2 replace all brake pad
         3 replace brake liquid
         4 test the performance of my vehicle
+        
+        
+  ***Prepare for tools and place for vehicle maintenance***
+   ===============
+   
+   Tools
+        
+            1 OBD2      // get the fault codes of vehicle
+            2 car lift   // lift car
+            3 new brake pad and disc      // replace all 
+            4 Torque wrench               // important
+            5 Ratchet wrench   (17MM and 21MM)            // necessary
+            6 Cross wrench    // remove tires
+            7 others things
+            
+   Place:
+    
+           1 my home front parking lot     // although it is not level， it still works.
+
+
+***Maintain vehicles and fix new problems***
+===============
+
+  In this step, I really want to say that oh my god, I meet so many tough problems.
+  
+  The main logic steps is that:
+        
+        1 use car lift to lift car up a little         // Because romoving hubcaps need a lot strenth, it is safe for me to lift car up a little. After removing the tire, liftting to a good position is a good idea.
+        2 remove hubcaps of a tire
+        3 remove tire
+        4 use car lift to lift car up to a necessary level
+        5 use 17MM to remove two bolts in brake clip and then remove the brake pad
+        6 use 21MM to remove brake clip
+
+   ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/brake_clip.jpg)
+           
+        7 remove brake disc
+        8 install new brake disc  
+        9 install brake clip      //use torque wrench to install 21mm bolts
+        10 install brake pad      //use torque wrench to install 17mm bolts
+        11 install tire
+        12 install hubcap         //use torque wrench to install hubcap
+        13 Lower the car and remove the car lift.
+        14 use OBD2 to test
+
+
+This is the list of new problems:
+
+    1 the car chassis has obvious corrosion         // I use tools to remove the corrosion and paint some car undercover to chassis in order to protecting from corrosion
+    2 Some bolts have corrosion and it is hard to remove    // I use WD40 liquid to remove the corrosion and clean it. At last, I use torque wrench to push and then remove it.
+    3 some hubcaps are hard to install         // try for many times
