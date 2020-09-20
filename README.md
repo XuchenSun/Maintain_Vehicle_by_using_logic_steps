@@ -13,7 +13,9 @@ I summarize four important logic steps about my vehicle mantenance.
     
  ***Identity specific requirements***
  
-  The requirement of mantenance is to solve the shaking of my steering wheel when braking. 
+  The requirement of mantenance is that
+  
+    solve the shaking of my steering wheel when braking. 
   
   When I drive my car in highway and want to slow down my speed, I use brake padel and I feel some shaking about the steering wheel. At the same time, I did not hear any noisy.
   
