@@ -100,3 +100,5 @@ This is the list of new problems:
     1 the car chassis has obvious corrosion         // I use tools to remove the corrosion and paint some car undercover to chassis in order to protecting from corrosion
     2 Some bolts have corrosion and it is hard to remove    // I use WD40 liquid to remove the corrosion and clean it. At last, I use torque wrench to push and then remove it.
     3 some hubcaps are hard to install         // try for many times
+    4 one brake disc is hard to remove // it can works, so I keep it
+  ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/without_brake_components.jpg)
