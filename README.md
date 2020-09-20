@@ -2,6 +2,8 @@
 
 ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/me.JPG)
 
+Hello everyone!
+
 I believe some logic philosophy is universal in some degree. In my process of maintaining my SUV(Toyota Rav4), I find some similarities about machanic maintenance and software design and develop.
 
 I summarize four important logic steps about my vehicle mantenance.
