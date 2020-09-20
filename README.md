@@ -69,6 +69,7 @@ fortunately they are not changed too much. At last, I finish it.
         4 use car lift to lift car up to a necessary level
         5 use 17MM to remove two bolts in brake clip and then remove the brake pad
         6 use 21MM to remove brake clip
+        ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/brake_clip.jpg)
         7 remove brake disc
         8 install new brake disc  
         9 install brake clip      //use torque wrench to install 21mm bolts
