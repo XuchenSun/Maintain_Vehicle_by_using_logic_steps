@@ -83,6 +83,8 @@ fortunately they are not changed too much. At last, I finish it.
         12 install hubcap         //use torque wrench to install hubcap
         13 Lower the car and remove the car lift.
         14 use OBD2 to test
+        
+    ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/error.JPG)
 
 
 This is the list of new problems:
