@@ -72,8 +72,8 @@ fortunately they are not changed too much. At last, I finish it.
 
    ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/brake_clip.jpg)
            
-           7 remove brake disc
-            8 install new brake disc  
+        7 remove brake disc
+        8 install new brake disc  
         9 install brake clip      //use torque wrench to install 21mm bolts
         10 install brake pad      //use torque wrench to install 17mm bolts
         11 install tire
