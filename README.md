@@ -46,6 +46,9 @@ fortunately they are not changed too much. At last, I finish it.
             1 OBD2      // get the fault codes of vehicle
             2 car lift   // lift car
             3 new brake pad and disc      // replace all 
+            
+   ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/new_brake_componets.jpg)
+            
             4 Torque wrench               // important
             5 Ratchet wrench   (17MM and 21MM)            // necessary
             6 Cross wrench    // remove tires
