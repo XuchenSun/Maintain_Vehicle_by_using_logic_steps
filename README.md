@@ -60,3 +60,27 @@ fortunately they are not changed too much. At last, I finish it.
 ===============
 
   In this step, I really want to say that oh my god, I meet so many tough problems.
+  
+  The main logic steps is that:
+        
+        1 use car lift to lift car up a little         // Because romoving hubcaps need a lot strenth, it is safe for me to lift car up a little. After removing the tire, liftting to a good position is a good idea.
+        2 remove hubcaps of a tire
+        3 remove tire
+        4 use car lift to lift car up to a necessary level
+        5 use 17MM to remove two bolts in brake clip and then remove the brake pad
+        6 use 21MM to remove brake clip
+        7 remove brake disc
+        8 install new brake disc  
+        9 install brake clip      //use torque wrench to install 21mm bolts
+        10 install brake pad      //use torque wrench to install 17mm bolts
+        11 install tire
+        12 install hubcap         //use torque wrench to install hubcap
+        13 Lower the car and remove the car lift.
+
+
+
+This is the list of new problems:
+
+    1 the car chassis has obvious corrosion         // I use tools to remove the corrosion and paint some car undercover to chassis in order to protecting from corrosion
+    2 Some bolts have corrosion and it is hard to remove    // I use WD40 liquid to remove the corrosion and clean it. At last, I use torque wrench to push and then remove it.
+    3 some hubcaps are hard to install         // try for many times
