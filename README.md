@@ -74,6 +74,9 @@ fortunately they are not changed too much. At last, I finish it.
    ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/car_lift.jpg)     
         
         5 use 17MM to remove two bolts in brake clip and then remove the brake pad
+        
+   ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/old_brake_system.jpg)
+        
         6 use 21MM to remove brake clip
 
    ![](https://github.com/XuchenSun/Maintain_Vehicle_by_using_logic_steps/blob/master/brake_clip.jpg)
